@@ -1,0 +1,150 @@
+div#total{
+    width: auto;
+    }
+    
+    div#cabecalho{
+    width: 100%;
+    height: 110px;
+    float:left;
+    background-color: #1B67B3;
+    text-align: center;
+    }
+    
+    div#menu{
+    background-color: #0B2C4D;
+    color: aliceblue;
+        
+    }
+    
+    div#conteudo{
+    font-size:large;
+    
+    }
+    
+    div#rodape{
+        width: auto;
+        height: 80px;
+        background-color: black;
+    }
+
+    h1{
+        text-align: center;
+        font-size: 10pt;
+    }
+
+    img#messi{
+        margin-left: 300px;    
+    }
+
+    img#barcelona{
+        margin-left: 300px;
+        height: 425px;
+    }
+
+    img#foto1{
+        height: 310px;
+        margin-left: 9px
+    }
+     
+    img#foto2{
+        height: 310px;
+        margin-left: 1.5px;
+
+    }
+
+    img#foto3{
+        height: 310px;
+       margin-left: 1.5px;
+    }
+    
+    img#foto4{
+        height: 310px;
+        margin-left: 1.5px;
+    }
+
+    img#foto5{
+        height: 310px;
+        margin-left: 1.5px;
+    }
+    
+    a{
+        text-decoration: none;
+        color: #161F30;
+    }
+
+    #botao1{
+        margin-left: 417px;
+    }
+    
+    .botao{
+        color: #C2D7F2;
+        border: none;
+        background-color:#C2D7F2 ;
+        padding: 0 20px;
+        text-transform: uppercase;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+    
+    @font-face {
+        font-family: titulo;
+        src: url(./aBlackLives.otf);
+    }
+    
+    @font-face {
+        font-family: subtitulo;
+        src: url(./CaviarDreams.ttf);
+    }
+    
+    #TITULO{
+        font-family: titulo;
+        font-size: 40pt;
+        line-height: 0px;
+        color: #161F30; 
+        margin-top: 45px;
+    }
+    
+    #subtitulo{
+       font-family: subtitulo;
+       font-size: 15pt;
+       line-height: 0px;
+       color: #161F30;
+    }
+
+    .topico{
+        color: #161F30;
+        font-family: topicos;
+        font-size: 28pt;
+        
+    }
+
+    @font-face {
+        font-family: topicos;
+        src: url(./BebasNeue-Regular.otf);
+    }
+
+    img#psg1{
+        height: 245px;
+        margin-left: 3px;
+        
+    }
+
+    img#psg2{
+        height: 245px;
+        margin-left: 3px;
+    }
+
+    img#psg3{
+        height: 245px;
+        margin-left: 3px;
+    }
+
+    img#inter1{
+        height: 348px;
+        margin-left: 8px;
+    }
+
+    img#inter2{
+        height: 348px;
+        margin-left: 16px;
+    }
